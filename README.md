@@ -44,9 +44,9 @@ The proposed system uses transfer learning with a ResNet-18 model to classify th
 
 ## Project Report
 
-The complete project documentation, implementation details, algorithms, and experimental results are available below.
+The complete project documentation, including the methodology, implementation, algorithms, results, and screenshots, is available in the report below.
 
-📄 **[Solar Project Report](Solar_Project_Report.pdf)**
+📄 **[Solar Panel Fault Detection Project Report](Solar_Project_Report.pdf)**
 
 ## Conclusion
 
